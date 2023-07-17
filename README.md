@@ -1,7 +1,7 @@
 ## Hi Guys 👋
 
 ### 🔭 **I know how to use** :
-![title](../KTaeGyu/images/Markdown-mark.svg.png)![title](../KTaeGyu/images/git.jpg)
+![title](./images/Markdown-mark.svg.png)![title](./images/git.jpg)
 
 <br>
 
@@ -9,7 +9,7 @@
 <br>
 
 ### 🌱 **Recently, i'm learning** : 
-![title](../KTaeGyu/images/python.png)![title](../KTaeGyu/images/Java.png)
+![title](./images/python.png)![title](./images/Java.png)
 
 <br>
 
@@ -17,7 +17,7 @@
 <br>
 
 ### 👯 **I'm interest in** :
-![title](../KTaeGyu/images/web_dev.jpg)![title](../KTaeGyu/images/game-dev.png)
+![title](./images/web_dev.jpg)![title](./images/game-dev.png)
 
 <br>
 
@@ -25,7 +25,7 @@
 <br>
 
 ### 🤔 **I need for help with** :
-![title](../KTaeGyu/images/CS.jpg)
+![title](./images/CS.jpg)
 
 <br>
 
