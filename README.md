@@ -1,38 +1,52 @@
-## Hi Guys 👋
+# Hi Guys 👋
+
 
 ### 🔭 **I know how to use** :
-![title](./images/Markdown-mark.svg.png)![title](./images/git.jpg)
+---
+<img src="./images/Markdown-mark.svg.png" alt="drawing" width="200"/>
 
+<img src="./images/git.jpg" alt="drawing" width="200"/>
 <br>
 
----
 <br>
 
 ### 🌱 **Recently, i'm learning** : 
-![title](./images/python.png)![title](./images/Java.png)
+---
+<img src="./images/python.png" alt="drawing" width="200"/>
+
+<img src="./images/Java.png" alt="drawing" width="200"/>
+
+<img src="./images/html.png" alt="drawing" height="120"/>
+
+<img src="./images/css.png" alt="drawing" height="120"/>
 
 <br>
 
----
+
 <br>
 
 ### 👯 **I'm interest in** :
-![title](./images/web_dev.jpg)![title](./images/game-dev.png)
+---
+<img src="./images/web_dev.jpg" alt="drawing" width="200"/>
+
+<img src="./images/game-dev.png" alt="drawing" width="200"/>
 
 <br>
 
----
+
 <br>
 
 ### 🤔 **I need for help with** :
-![title](./images/CS.jpg)
+---
+<img src="./images/CS.jpg" alt="drawing" width="200"/>
 
 <br>
 
----
+
 <br>
 
 ### 📫 **You can touch with me by** :
+---
 ### email : *xorb269@naver.com*
 
 
