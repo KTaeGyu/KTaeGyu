@@ -16,7 +16,7 @@
 
 <img src="./images/Java.png" alt="drawing" width="200"/>
 
-<img src="./images/html.png" alt="drawing" height="120"/>
+<img src="./images/html.png" alt="drawing" height="100"/>
 
 <img src="./images/css.png" alt="drawing" height="120"/>
 
